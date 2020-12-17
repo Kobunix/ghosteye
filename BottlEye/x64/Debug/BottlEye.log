@@ -1,0 +1,16 @@
+﻿  format.cc
+c1xx : fatal error C1083: Impossible d'ouvrir le fichier source : 'D:\Sync\Programming\C++\Libraries\fmt\format.cc' : No such file or directory
+  posix.cc
+c1xx : fatal error C1083: Impossible d'ouvrir le fichier source : 'D:\Sync\Programming\C++\Libraries\fmt\posix.cc' : No such file or directory
+  delegate.cpp
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\be_packet.hpp(39,25): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\be_packet.hpp(39,25): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\delegate.hpp(7,1): error C2429: fonctionnalité de langage 'nested-namespace-definition' exige l'indicateur de compilateur '/std:c++17'
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\loggr.hpp(5,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'fmt\core.h' : No such file or directory
+  emulator.cpp
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\loggr.hpp(5,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'fmt\core.h' : No such file or directory
+  entry.cpp
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\loggr.hpp(5,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'fmt\core.h' : No such file or directory
+  singleton.cpp
+Z:\Users\micka\Downloads\BottlEye-master\BottlEye-master\BottlEye\loggr.hpp(5,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'fmt\core.h' : No such file or directory
+  Génération de code en cours...
